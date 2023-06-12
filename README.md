@@ -8,7 +8,7 @@ You can access the course at [Aprenda GeoAI](https://www.saotomasconsultoria.com
 ## Repository Content
 The repository contains Jupyter notebooks related to the course, including:
 
-- `ARCGIS_API_LEARN_SEMANGEOAI (1).ipynb`
+- [`ARCGIS_API_LEARN_SEMANGEOAI (1).ipynb`](https://github.com/jvataidee/apredageoai/blob/main/ARCGIS_API_LEARN_SEMANGEOAI%20(1).ipynb)
 
 ## Additional Information
 - No releases published
