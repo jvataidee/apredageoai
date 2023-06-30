@@ -1,6 +1,6 @@
 # Aprenda GeoAI Repository by João Ataíde
 
- This repository is dedicated to his course "Aprenda GeoAI". The course material, including Jupyter notebooks, is available in this repository.
+This repository is dedicated to course "Aprenda GeoAI". The course material, including Jupyter notebooks, is available in this repository.
 
 ## Course Link
 You can access the course at [Aprenda GeoAI](https://www.saotomasconsultoria.com.br/aprendageoai)
